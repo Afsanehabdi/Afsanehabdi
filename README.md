@@ -1,7 +1,7 @@
 <img src='https://github.com/Afsanehabdi/Afsanehabdi/assets/115100233/85b0a901-733c-493b-9f98-14def92de837' width='10%' /> <img src='https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=0AF7AD&random=false&width=435&lines=Hello%2C+I%E2%80%99m+Afsaneh+Abdi;Welcome+to+my+GitHub+profile'  width='60%' >
 
- 
-<img  src='https://visitcount.itsvg.in/api?id=Afsanehabdi&label=Profile%20Views&color=3&icon=5&prett' width='90%' />
+
+<img src='https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif'>
 
   <br><br>
 
@@ -35,14 +35,14 @@
 
 <div display='flex' align='center'>
 
-<img src='https://github-readme-stats.vercel.app/api?username=afsanehaa&show_icons=true&theme=tokyonight' width='45%' height='190'> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=afsanehaa&layout=donut&https://github.com/afsanehaa/github-readme-stats&theme=tokyonight' width='54%' height='190'>
+<img src='https://github-readme-stats.vercel.app/api?username=afsanehabdi&show_icons=true&theme=tokyonight' width='45%' height='190'> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=afsanehabdi&layout=donut&https://github.com/afsanehabdi/github-readme-stats&theme=tokyonight' width='54%' height='190'>
 
 </div>
 
 
   <br><br>
 
-<img  width='44%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'><span font-size='50px' width='20%' > __Contact Me__ </span>  <img width='44%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'>
+<img  width='44%' src='https://github.com/Afsanehabdi/Afsanehabdi/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'><span font-size='50px' width='20%' > __Contact Me__ </span>  <img width='44%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'>
 
 <br><br>
 
@@ -54,12 +54,6 @@
   
 </a>
 
-
-<a href='https://www.linkedin.com/in/afsaneh-abdi-dizaji/'> 
-
-<img src='https://img.shields.io/badge/%20Instagram-pink?logo=instagram'>
-  
-</a>
 
 </p>
  
