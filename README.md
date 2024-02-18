@@ -1,6 +1,7 @@
-<img src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/85b0a901-733c-493b-9f98-14def92de837' width='10%' /> <img src='https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=0AF7AD&random=false&width=435&lines=Hello%2C+I%E2%80%99m+Afsaneh+Abdi;Welcome+to+my+GitHub+profile'  width='60%' >
+<img src='https://github.com/Afsanehabdi/Afsanehabdi/assets/115100233/85b0a901-733c-493b-9f98-14def92de837' width='10%' /> <img src='https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=0AF7AD&random=false&width=435&lines=Hello%2C+I%E2%80%99m+Afsaneh+Abdi;Welcome+to+my+GitHub+profile'  width='60%' >
 
-<img align="right" width='100%' src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
+ 
+<img  src='https://visitcount.itsvg.in/api?id=Afsanehabdi&label=Profile%20Views&color=3&icon=5&prett' width='90%' />
 
   <br><br>
 
@@ -9,7 +10,6 @@
 
 <div align="center">
   
-<img  src='https://visitcount.itsvg.in/api?id=Afsanehaa&label=Profile%20Views&color=3&icon=5&prett'>
 
 </div>
  
